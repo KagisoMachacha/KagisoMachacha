@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Javascript, Sql databases and Java
 - 📫 How to reach me: kagisomachacha1@gmail.com
 - ⚡ Fun fact: Always looking to learn something new
+-->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -30,4 +32,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kagisomachacha&show_icons=true&locale=en" alt="kagisomachacha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kagisomachacha&" alt="kagisomachacha" /></p>
--->
+
