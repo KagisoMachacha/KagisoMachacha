@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**KagisoMachacha/KagisoMachacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 👋 Hi, I am Kagiso Machacha
-- 🔭 I’m currently working on [...](https://github.com/KagisoMachacha/FNB-Landing-Page-Replica.git)
+- 🔭 I’m currently working on (https://github.com/KagisoMachacha/FNB-Landing-Page-Replica.git)
 - 🌱 I’m currently learning Frameworks and Web development
 - 💬 Ask me about Python, Javascript, Sql databases and Java
 - 📫 How to reach me: kagisomachacha1@gmail.com
 - ⚡ Fun fact: Always looking to learn something new
--->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
