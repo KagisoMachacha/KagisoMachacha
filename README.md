@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Frameworks and Web development
 - 💬 Ask me about Python, Javascript, Sql databases and Java
 - 📫 How to reach me: kagisomachacha1@gmail.com
-      • <a href="/https://www.linkedin.com/in/kagiso-blessing-machacha-620446228/">Linkedin</a>
+      • <a href="https://www.linkedin.com/in/kagiso-blessing-machacha-620446228">Linkedin</a>
         
         
 - ⚡ Fun fact: Always looking to learn something new
