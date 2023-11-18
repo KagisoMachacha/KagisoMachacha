@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I am Kagiso Machacha
-- 🔭 I’m currently working on (https://github.com/KagisoMachacha/FNB-Landing-Page-Replica.git)
-- 🌱 I’m currently learning Frameworks and Web development
+- 🔭 I’m currently working on a retail and real estate property management system that helps with aggregated data for shopping centers.
+- 🌱 I’m currently learning python django Frameworks  for web development and django rest framework for API
 - 💬 Ask me about Python, Javascript, Sql databases and Java
 - 📫 How to reach me: kagisomachacha1@gmail.com
       • <a href="https://www.linkedin.com/in/kagiso-blessing-machacha-620446228">Linkedin</a>
