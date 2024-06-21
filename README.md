@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I am Kagiso Machacha
-- 🔭 I’m currently working on a retail and real estate property management system that helps with aggregated data for shopping centers.
+- 🔭 I’m currently working on a django api system , that does *Hang around to find out* 🤪.
 - 🌱 I’m currently learning python django Frameworks  for web development and django rest framework for API
 - 💬 Ask me about Python, Javascript, Sql databases and Java
 - 📫 How to reach me: kagisomachacha1@gmail.com
